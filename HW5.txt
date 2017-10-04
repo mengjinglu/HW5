@@ -1,0 +1,5 @@
+This program took long time to run,
+run:
+BUILD STOPPED (total time: 42 minutes 2 seconds)
+
+ I didn’t wait for the output, I tried one million dots, the pi is about 3.13…
